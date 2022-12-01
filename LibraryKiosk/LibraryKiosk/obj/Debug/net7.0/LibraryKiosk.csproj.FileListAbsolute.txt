@@ -1,0 +1,15 @@
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/bin/Debug/net7.0/LibraryKiosk
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/bin/Debug/net7.0/LibraryKiosk.deps.json
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/bin/Debug/net7.0/LibraryKiosk.runtimeconfig.json
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/bin/Debug/net7.0/LibraryKiosk.dll
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/bin/Debug/net7.0/LibraryKiosk.pdb
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/LibraryKiosk.csproj.AssemblyReference.cache
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/LibraryKiosk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/LibraryKiosk.AssemblyInfoInputs.cache
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/LibraryKiosk.AssemblyInfo.cs
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/LibraryKiosk.csproj.CoreCompileInputs.cache
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/LibraryKiosk.dll
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/refint/LibraryKiosk.dll
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/LibraryKiosk.pdb
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/LibraryKiosk.genruntimeconfig.cache
+/Users/mofeoluwajide-jegede/Desktop/LibraryKiosk/LibraryKiosk/obj/Debug/net7.0/ref/LibraryKiosk.dll
